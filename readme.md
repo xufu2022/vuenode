@@ -8,3 +8,9 @@ npm i -g yarn
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 tsc --init
+
+## setup express
+
+npm i express cors
+npm i -D @types/express @types/cors
+
