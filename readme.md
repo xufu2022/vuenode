@@ -14,3 +14,14 @@ tsc --init
 npm i express cors
 npm i -D @types/express @types/cors
 
+npm i express-validation --save
+
+github.com/typeorm/typeorm
+
+https://dev.mysql.com/downloads/mysql/
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+
+flush privileges;
+
+07-06:24
