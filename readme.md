@@ -25,3 +25,9 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password
 flush privileges;
 
 07-06:24
+
+npm i jsonwebtoken
+npm i -D @types/jsonwebtoken --save
+
+npm i cookie-parser
+npm i -D @types/cookie-parser --save
