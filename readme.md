@@ -36,3 +36,7 @@ mysql
     SET Foreign_key_Checks=0
     truncate table Permission;
     truncate table Role;
+
+
+npm i faker
+npm i -D @types/faker --save
