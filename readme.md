@@ -31,3 +31,8 @@ npm i -D @types/jsonwebtoken --save
 
 npm i cookie-parser
 npm i -D @types/cookie-parser --save
+
+mysql
+    SET Foreign_key_Checks=0
+    truncate table Permission;
+    truncate table Role;
