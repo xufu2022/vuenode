@@ -47,3 +47,6 @@ npm i -D @types/multer --save
 npm i json2csv
 npm i -D @types/json2csv --save
 
+# Vue development
+
+-   vue file name must be in lower case
